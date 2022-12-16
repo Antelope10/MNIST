@@ -1,4 +1,2 @@
-# learning
-
-## headline 1
+# MNIST Jupyter Notebook With Only NumPy
 
